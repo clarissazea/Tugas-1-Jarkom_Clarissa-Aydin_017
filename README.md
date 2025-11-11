@@ -35,10 +35,11 @@ Total Host: 778 host
 
 
 
+
 # Perhitungan Subnetting VLSM & CIDR
 
 
-## VLSM
+## Topologi VLSM
 
 <img width="1425" height="742" alt="image" src="https://github.com/user-attachments/assets/1eb36bc5-dd37-4356-a7bc-cebc9f93d6f7" />
 

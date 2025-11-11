@@ -13,8 +13,6 @@
 
 
 
-<img width="1609" height="378" alt="image" src="https://github.com/user-attachments/assets/4566f5e6-4927-401d-a8e6-babb6398fc74" />
-
 | **Nama Subnet**                    | **Kebutuhan Host** | **Network Address** | **Prefix** | **Subnet Mask**     | **Host Range**                 | **Broadcast Address** | **Gateway Address** |
 |-----------------------------------|--------------------|----------------------|------------|----------------------|-------------------------------|------------------------|----------------------|
 | Sekretariat                       | 381                | 10.54.2.0            | /23        | 255.255.254.0        | 10.54.2.1 - 10.54.3.254       | 10.54.3.255            | 10.54.2.1            |

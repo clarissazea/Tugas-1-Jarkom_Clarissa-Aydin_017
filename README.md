@@ -68,6 +68,6 @@ Total Host: 778 host
 
 ## Topologi CIDR
 
-<img width="1282" height="689" alt="image" src="https://github.com/user-attachments/assets/a7c0c033-98ff-4c63-aba3-21fae1addc49" />
+<img width="1290" height="700" alt="image" src="https://github.com/user-attachments/assets/a758e509-75a7-456f-8ace-3b1b100fe460" />
 
 ## Pohon CIDR

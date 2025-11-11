@@ -1,7 +1,12 @@
 # Tugas-1-Jarkom_Clarissa-Aydin_014
 
+# SUBNETTING
+Yayasan Pendidikan ARA akan membangun jaringan untuk beberapa unit kerja. Sebagian unit berada di kantor pusat, sedangkan Bidang Pengawas Sekolah berada di kantor cabang. IP yang bisa digunakan 
 
 # TOPOLOGI
+
+## Merancang topologinya menggunakan Cisco Packet Tracer
+
 <img width="1611" height="790" alt="image" src="https://github.com/user-attachments/assets/bd432ec2-f5a8-4338-88a8-de9f11482242" />
 
 # SUBNET

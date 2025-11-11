@@ -16,7 +16,8 @@
 | Server & Admin                    |       6 |                  7  | /28         |
 | Jaringan Gabungan                 |       6 |                  6  | /29         |
 | Tunnel (Link Pusat dan Cabang)    |       2 |                  2  | /30         |
-| **TOTAL**                         |                            **778** | **/22**     |
+|                                   |         |              **778**| **/22**     |
+
 
 ## VLSM
 

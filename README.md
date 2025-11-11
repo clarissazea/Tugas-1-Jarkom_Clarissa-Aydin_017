@@ -36,7 +36,7 @@ Total Host: 778 host
 
 
 
-# Perhitungan Subnetting VLSM & CIDR
+# VLSM
 
 
 ## Topologi VLSM
@@ -48,6 +48,7 @@ Total Host: 778 host
 <img width="795" height="923" alt="image" src="https://github.com/user-attachments/assets/bf331d9c-2b45-4919-a310-c7c7a1e947a1" />
 
 
+## Perhitungan Subnetting VLSM 
 
 | **Nama Subnet**                    | **Kebutuhan Host** | **Network Address** | **Prefix** | **Subnet Mask**     | **Host Range**                 | **Broadcast Address** | **Gateway Address** |
 |-----------------------------------|--------------------|----------------------|------------|----------------------|-------------------------------|------------------------|----------------------|

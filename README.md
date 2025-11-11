@@ -71,3 +71,8 @@ Total Host: 778 host
 <img width="1290" height="700" alt="image" src="https://github.com/user-attachments/assets/a758e509-75a7-456f-8ace-3b1b100fe460" />
 
 ## Pohon CIDR
+
+<img width="954" height="529" alt="image" src="https://github.com/user-attachments/assets/381f5398-5d5e-4b72-a5dc-12c0c1627103" />
+
+## Perhitungan Subnetting CIDR
+

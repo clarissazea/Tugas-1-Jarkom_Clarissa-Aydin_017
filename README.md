@@ -1,16 +1,21 @@
 # Tugas-1-Jarkom_Clarissa-Aydin_014
 
-# SUBNETTING
-Yayasan Pendidikan ARA akan membangun jaringan untuk beberapa unit kerja. Sebagian unit berada di kantor pusat, sedangkan Bidang Pengawas Sekolah berada di kantor cabang. IP yang bisa digunakan 
+# Topologi
 
-# TOPOLOGI
-
-## Merancang topologinya menggunakan Cisco Packet Tracer
+### Merancang topologinya menggunakan Cisco Packet Tracer
 
 <img width="1611" height="790" alt="image" src="https://github.com/user-attachments/assets/bd432ec2-f5a8-4338-88a8-de9f11482242" />
 
-# SUBNET
+# Base Network dan Subnetting
 
+### Base Network Unik
+
+```
+NRP 5027241014 mod 256 = 54
+Base = 10.54.0.0
+```
+
+### Subnetting
 ```
 IP Prefix: 10.54.0.0/22
 Total Host: 778 host
@@ -28,6 +33,8 @@ Total Host: 778 host
 | Tunnel (Link Pusat dan Cabang)    |       2 |                  2  | /30         |
 | TOTAL                             |         |              **778**| **/22**     |
 
+
+# Perhitungan Subnetting VLSM & CIDR
 
 ## VLSM
 

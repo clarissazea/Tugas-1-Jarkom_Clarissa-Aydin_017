@@ -4,7 +4,7 @@
 # TOPOLOGI
 <img width="1611" height="790" alt="image" src="https://github.com/user-attachments/assets/bd432ec2-f5a8-4338-88a8-de9f11482242" />
 
-<img width="806" height="938" alt="image" src="https://github.com/user-attachments/assets/9882c25f-ba62-4ae1-941f-210459fb0126" />
+<img width="795" height="923" alt="image" src="https://github.com/user-attachments/assets/bf331d9c-2b45-4919-a310-c7c7a1e947a1" />
 
 
 

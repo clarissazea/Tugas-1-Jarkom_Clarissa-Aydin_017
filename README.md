@@ -6,6 +6,11 @@
 
 # SUBNET
 
+```
+IP Prefix: 10.54.0.0/22
+Total Host: 778 host
+```
+
 | **Nama Subnet**                    | **Host** | **Host + Gateway** | **Netmask** |
 |-----------------------------------|---------:|--------------------:|:-----------:|
 | Sekretariat                       |     380 |                381  | /23         |

@@ -34,7 +34,9 @@ Total Host: 778 host
 | TOTAL                             |         |              **778**| **/22**     |
 
 
+
 # Perhitungan Subnetting VLSM & CIDR
+
 
 ## VLSM
 
